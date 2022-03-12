@@ -1,0 +1,56 @@
+p{
+    text-align: center;
+    font-size: 50pt;
+    color: lightsalmon;
+    border: 5px solid lightsalmon;
+}
+body{
+    background-color: rgb(231, 247, 162);
+}
+img{
+    width: 40%;
+    border: 5px solid rgb(255, 0, 0);
+}
+h2{
+    font-size: 20pt;
+    background-color: rgb(238, 247, 197);
+}
+h3{
+    font-size: 20pt;
+    background-color: rgb(238, 247, 197);
+}
+h1{
+    margin-right: 60%;
+    color: rgb(137, 1, 248);
+    border: 5px solid red;
+    border-radius: 50px;
+}
+.cin1{
+    text-align: center;
+    float: right;
+    margin-top: 10%;
+    margin-left: 5%;
+    width: 50%;
+}
+.cin2{
+    text-align: center;
+    float: right;
+    margin-top: 0%;
+    margin-left: 10%;
+    width: 30%;
+}
+.cin0{
+    text-align: center;
+    margin-top: 5%;
+    width: 100%;
+}
+.flex_container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    margin-left: 10%;
+}
+
+
+
+    
